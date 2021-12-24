@@ -53,3 +53,5 @@ Ingin mengatur ulang jaringan Venue WMS dengan OpenWrt (misal untuk komputer kas
 	<a href="https://saweria.co/kopijahe"><img src="https://github.com/kopijahe/wifiid-openwrt/blob/master/pics/saweria-button.png" alt="saweria ✖ KopiJahe" width="225">
 	
 </p>
+	    
+	    ...
